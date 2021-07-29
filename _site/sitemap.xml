@@ -7,7 +7,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/holo-alfa/about/</loc>
+        <loc>http://localhost:4000/about/</loc>
     </url>
     
     
@@ -17,7 +17,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/holo-alfa/archive/</loc>
+        <loc>http://localhost:4000/archive/</loc>
     </url>
     
     
@@ -27,19 +27,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/holo-alfa/contact/</loc>
-    </url>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/holo-alfa/</loc>
+        <loc>http://localhost:4000/contact/</loc>
     </url>
     
     
@@ -50,10 +38,22 @@
     
     
     
+    <url>
+        <loc>http://localhost:4000/</loc>
+    </url>
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     <url>
-        <loc>http://localhost:4000/holo-alfa/thanks/</loc>
+        <loc>http://localhost:4000/thanks/</loc>
     </url>
     
     
